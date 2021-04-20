@@ -1,24 +1,5 @@
-# demo_vue3.x_todo1
+# demo_vue3.x_todo
 
-## Project setup
-```
-yarn install
-```
+## 介绍
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 使用 vue3 Todo Demo
